@@ -1,0 +1,19 @@
+
+.container-fluid {
+	background-color: black;
+	padding-top: 100px;
+	padding-bottom: 300px;
+}
+
+.well{
+	
+}
+
+table {
+	margin: auto;
+	width: 50%;
+}
+
+th {
+	background-color: gray;
+}
